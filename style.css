@@ -35,6 +35,7 @@ body{
 
 .hero-main{
     height: 300px;
+    padding-top: 0px;
 }
 .left-hero-main h1{
     font-size: 48px;
@@ -62,6 +63,8 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding-left:20% ;
+    padding-right:20% ;
 }
 .main-info h2{
     font-size: 36px;
@@ -71,6 +74,18 @@ body{
 }
 
 .info img{
-    width: 100px;
-    border: 2px solid lightblue;
+    width: 180px;
+    height: 180px;
+    border: 2px solid #3882f6;
+}
+.submain-info{
+    display: flex;
+    justify-content: space-between;
+}
+.info{
+    margin: 20px 5px;
+}
+
+.info p{
+    text-align: center;
 }
