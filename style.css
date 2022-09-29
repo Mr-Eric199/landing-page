@@ -124,3 +124,11 @@ body{
     padding: 3px 30px; 
     border-radius: 5px;
 }
+footer{
+    height: 80px;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
