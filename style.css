@@ -107,3 +107,20 @@ body{
 .quote h3{
    padding-left: 350px;
 }
+.call{
+    background-color: #3882f6;
+    margin: 100px;
+    padding: 50px 100px;
+    border-radius: 10px;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: space-between;
+}
+
+.call-button{
+    background-color: #3882f6;
+    border:2px solid #e5e7eb;
+    color: #e5e7eb;
+    padding: 3px 30px; 
+    border-radius: 5px;
+}
