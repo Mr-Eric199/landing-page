@@ -89,3 +89,21 @@ body{
 .info p{
     text-align: center;
 }
+.quote{
+    background-color: #e5e7eb;
+    font-size: 26px;
+    font-weight: light;
+    font-style: italic;
+    color: #1f2937;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.quote h3{
+   padding-left: 350px;
+}
